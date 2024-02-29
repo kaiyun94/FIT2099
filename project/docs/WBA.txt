@@ -1,0 +1,49 @@
+ 
+FIT 2099 Assignment 3 Work Breakdown Agreement
+Lab 06 Team 2:
+1. Lo Kin Herng (32023995)
+2. Tang Kai Kit (31862071)
+3. Ong Kai Yun (31861369)
+
+We hereby agree to work on FIT 2099 Assignment 3 according to the following breakdown:
+
+Implementation (To be completed by 22nd May, Sunday):
+~ Lo Kin Herng works with classes involving REQ 1
+~ Tang Kai Kit works with REQ 2
+~ Ong Kai Yun works with REQ 3
+~ Lo Kin Herng works with REQ 4 (Creative mode)
+~ Tang Kai Kit works with REQ 5 (Creative mode)
+~ Initial commit: 7th May
+~ Reviewers: All 3 members
+
+New Class Diagrams (To be completed by 22nd May, Sunday):
+~ Lo Kin Herng works with REQ 1
+~ Tang Kai Kit works with REQ 2
+~ Ong Kai Yun works with REQ 3
+~ Lo Kin Herng works with REQ 4
+~ Tang Kai Kit works with REQ 5
+~ Reviewers: All 3 members
+
+New Interaction Diagrams (To be completed by 2nd May, Monday):
+~ Req 1 to be done by Lo Kin Herng
+~ Req 2 to be done by Tang Kai Kit
+~ Req 3 to be done by Ong Kai Yun
+~ Req 4 to be done by Lo Kin Herng
+~ Req 5 to be done by Lo Kin Herng
+~ Reviewers: All 3 members
+
+Update Design Rationale (To be completed by 2nd May, Monday):
+~ Lo Kin Herng works rationales involving with REQ 1
+~ Tang Kai Kit works rationales involving with REQ 2
+~ Ong Kai Yun works rationales involving with REQ 3
+~ Lo Kin Herng works rationales involving with REQ 4
+~ Tang Kai Kit works rationales involving with REQ 5
+
+Author: Ong Kai Yun
+Date created: 7th May
+Modified: 23th May
+
+Acknowledgement:
+I accept this WBA. Signed by Ong Kai Yun
+I accept this WBA. Signed by Tang Kai Kit
+I accept this WBA. Signed by Lo Kin Herng

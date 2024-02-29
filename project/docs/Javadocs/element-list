@@ -1,0 +1,17 @@
+edu.monash.fit2099.engine.actions
+edu.monash.fit2099.engine.actors
+edu.monash.fit2099.engine.capabilities
+edu.monash.fit2099.engine.displays
+edu.monash.fit2099.engine.items
+edu.monash.fit2099.engine.positions
+edu.monash.fit2099.engine.weapons
+game
+game.actions
+game.actors
+game.behaviours
+game.capabilities
+game.grounds
+game.items
+game.monologue
+game.reset
+game.trades
